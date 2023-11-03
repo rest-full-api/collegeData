@@ -40,7 +40,7 @@
   "isAutonomous": true,
   "isAided": false,
   "isNonminority": false,
-  "est": "1999",
+  "est": "1999"
 },
 {
   "id": 22,
@@ -60,7 +60,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "1985",
+  "est": "1985"
 },
 {
   "id": 23,
@@ -80,7 +80,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "1991",
+  "est": "1991"
 },
 {
   "id": 24,
@@ -100,7 +100,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "2010",
+  "est": "2010"
 },
 {
   "id": 25,
@@ -120,7 +120,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "1936",
+  "est": "1936"
 },
   {
   "id": 26,
@@ -140,7 +140,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "1994",
+  "est": "1994"
 },
  {
   "id": 27,
@@ -160,7 +160,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1980",
+  "est": "1980"
 },
  {
   "id": 28,
@@ -180,7 +180,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1993",
+  "est": "1993"
 },
   {
   "id": 29,
@@ -200,7 +200,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "2004",
+  "est": "2004"
 },
 {
   "id": 30,
@@ -220,7 +220,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "2014",
+  "est": "2014"
 },
 {
   "id": 31,
@@ -239,7 +239,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1982",
+  "est": "1982"
 },
  {
   "id": 32,
@@ -258,7 +258,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1982",
+  "est": "1982"
 },
 {
   "id": 33,
@@ -277,7 +277,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1992",
+  "est": "1992"
 },
 {
   "id": 34,
@@ -296,7 +296,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "2001",
+  "est": "2001"
 },
 {
   "id": 35,
@@ -315,7 +315,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "2014",
+  "est": "2014"
 },
 {
   "id": 36,
@@ -334,7 +334,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1994",
+  "est": "1994"
 },
  {
   "id": 37,
@@ -353,7 +353,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": false,
-  "est": "2011",
+  "est": "2011"
 },
 {
   "id": 38,
@@ -372,7 +372,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "1994",
+  "est": "1994"
 },
 {
   "id": 39,
@@ -391,7 +391,7 @@
   "isAutonomous": false,
   "isAided": false,
   "isNonminority": true,
-  "est": "2005",
+  "est": "2005"
 }
   ]
 }

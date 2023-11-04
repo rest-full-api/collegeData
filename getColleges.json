@@ -1,397 +1,4600 @@
 {
   "initialColleges": [
+  
+    {
+      "id": 1,
+      "actualRating": 4.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685125a96965b996de20d_4-HALF.png",
+      "clgName": "Veermata Jijabai Technological Institute(VJTI)",
+      "clgLocation": "Matunga",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "99.81",
+      "twentyTWOPercent": "99.89",
+      "twentyONEPercent": "99.94",
+      "feeAmount": "85551/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vjti.ac.in/wp-content/uploads/2021/07/VJTI-LandingPageV3-768x393.jpg",
+  
+      "isGov": true,
+      "isAutonomous": true,
+      "isAided": true,
+      "isNonminority": true,
+      "est": "1887"
+    },
+  
   {
-  "id": 20,
-  "actualRating": 4,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
-  "clgName": "Atharva College of Engineering,Malad(West),Mumbai",
-  "clgLocation": "Malad",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "92.05",
-  "twentyTWOPercent": "89.38",
-  "twentyONEPercent": "92.63",
-  "feeAmount": "88,926/-",
-  "clgImg":
-    "https://www.collegebatch.com/static/clg-gallery/atharva-college-of-engineering-mumbai-231554.jpg",
+      "id": 2,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685125a96965b996de20d_4-HALF.png",
+      "clgName": "Bhartiya VidyaBhavan Sardar Patel Institute of Technology",
+      "clgLocation": "Andheri",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "99.55",
+      "twentyTWOPercent": "99.60",
+      "twentyONEPercent": "99.80",
+      "feeAmount": "95567/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://i.ytimg.com/vi/BEjLcQGDvps/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARsbc64_0XkrOma5CP-hiiVXETWg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1962"
+    },
+  
+  {
+      "id": 3,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College",
+      "clgLocation": "Vile Parle",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "98.99",
+      "twentyTWOPercent": "98.97",
+      "twentyONEPercent": "99.43",
+      "feeAmount": "90150/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1547448474phptA5OsA.png",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1994"
+    },
+  
+  {
+      "id": 4,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thadomal Shahani Engineering College",
+      "clgLocation": "Bandra",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "98.04",
+      "twentyTWOPercent": "97.81",
+      "twentyONEPercent": "98.54",
+      "feeAmount": "132250/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1566293742phpRVy7Mk.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1983"
+    },
+  
+  {
+      "id": 5,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vivekanand Education Institute of Technology",
+      "clgLocation": "Chembur",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "97.64",
+      "twentyTWOPercent": "97.49",
+      "twentyONEPercent": "99.14",
+      "feeAmount": "135670/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2018/10/Vivekanand_Education_Society_s_Institute_of_Technology.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1984"
+    },
+  
+  {
+      "id": 6,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "K J Somaiya Institute of Engineering ",
+      "clgLocation": " Sion",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "96.62",
+      "twentyTWOPercent": "96.33",
+      "twentyONEPercent": "96.21",
+      "feeAmount": "138578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1556619756phpWx1A3f.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+  
+  {
+      "id": 7,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Fr. Conceicao Rodrigues College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "96.46",
+      "twentyTWOPercent": "96.10",
+      "twentyONEPercent": "96.33",
+      "feeAmount": "133452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fr._CRCE.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1984"
+    },
+  
+  {
+      "id": 8,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyalankar Institute of Technology",
+      "clgLocation": "Wadala",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "96.42",
+      "twentyTWOPercent": "95.37",
+      "twentyONEPercent": "95.98",
+      "feeAmount": "144582/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vit.edu.in/images/life1.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1997"
+    },
+  
+  {
+      "id": 9,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Agnel Charities' FR. C. Rodrigues Institute of Technology",
+      "clgLocation": "Vashi",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "97.85",
+      "twentyTWOPercent": "95.47",
+      "twentyONEPercent": "96.45",
+      "feeAmount": "136845/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/navi_mumbai/v3/022pxx22.xx22.000584015227.k5v3/catalogue/fr-agnel-technical-education-complex-vashi-navi-mumbai-colleges-830nki8ojg.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+  
+  {
+      "id": 10,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thakur College of Engineering and Technology",
+      "clgLocation": "Kandivali",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "96.10",
+      "twentyTWOPercent": "94.82",
+      "twentyONEPercent": "95.55",
+      "feeAmount": "145218/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.static-contents.youth4work.com/university/Documents/Colleges/newsEvent/4ed6b0c2-fe4e-4037-8a80-8d90d4f89d5d.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1999"
+    },
+  
+  {
+      "id": 11,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Don Bosco Institute of Technology",
+      "clgLocation": "Kurla",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "95.11",
+      "twentyTWOPercent": "94.61",
+      "twentyONEPercent": "93.34",
+      "feeAmount": "134586/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.theassociates.co.in/wp-content/uploads/2021/07/m14.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1992"
+    },
+  
+  {
+      "id": 12,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Manjara Trust's Rajiv Gandhi Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "93.12",
+      "twentyTWOPercent": "93.08",
+      "twentyONEPercent": "93.73",
+      "feeAmount": "138759/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/14734_RGIT_New.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1996"
+    },
+  
+  {
+      "id": 13,
+      "actualRating": 3.8,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Xavier Institute Of Engineering ",
+      "clgLocation": "Mahim",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "92.84",
+      "twentyONEPercent": "93.52",
+      "feeAmount": "1379548/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2019/05/Xavier-Institute-of-Engineering.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2003"
+    },
+  
+  {
+      "id": 14,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": " St. Francis Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "94.43",
+      "twentyTWOPercent": "93.17",
+      "twentyONEPercent": "94.61",
+      "feeAmount": "132678/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/mumbai/d6/022pxx22.xx22.170901141300.l7d6/catalogue/st-francis-institute-of-technology-engineering-college-borivali-west-mumbai-colleges-pldcw0ujuc.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 15,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "S.I.E.S. Graduate School of Technology",
+      "clgLocation": "Nerul",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "95.33",
+      "twentyTWOPercent": "93.48",
+      "twentyONEPercent": "93.48",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1555324229phpPLACuW.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2002"
+    },
+  
+  {
+      "id": 16,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyavardhini's College of Engineering",
+      "clgLocation": "Vasai",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "91.48",
+      "twentyTWOPercent": "93.86",
+      "twentyONEPercent": "92.68",
+      "feeAmount": "136578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1560142232phpXE4NVo.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+  
+  {
+      "id": 17,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Bharati Vidyapeeth College of Engineering",
+      "clgLocation": "Borivali",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "94.65",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "87.66",
+      "feeAmount": "135468/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1480663009phpF68yaT.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1989"
+    },
+  
+  {
+      "id": 18,
+      "actualRating": 3.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Rizvi College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "91.91",
+      "twentyTWOPercent": "89.85",
+      "twentyONEPercent": "90.41",
+      "feeAmount": "130000",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1500017268cvr.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 19,
+      "actualRating": 3.7,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "N.Y.S.S.'s Datta Meghe College of Engineering",
+      "clgLocation": "Airoli",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "94.56",
+      "twentyTWOPercent": "89.81",
+      "twentyONEPercent": "90.03",
+      "feeAmount": "142050",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1495433847phpN0ARqD.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 20,
+      "actualRating": 4,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Atharva College of Engineering",
+      "clgLocation": "Malad",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "92.05",
+      "twentyTWOPercent": "89.38",
+      "twentyONEPercent": "92.63",
+      "feeAmount": "88,926/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/atharva-college-of-engineering-mumbai-231554.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1999"
+    },
+    {
+      "id": 21,
+      "actualRating": 4.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Mahatma Education Society's Pillai College",
+      "clgLocation": "New Panvel",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "91.06",
+      "feeAmount": "1,38,354/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1999"
+    },
+    {
+      "id": 22,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Mahavir Education Trust's Shah & Anchor College",
+      "clgLocation": "Chembur",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "91.25",
+      "twentyTWOPercent": "89.61",
+      "twentyONEPercent": "89.65",
+      "feeAmount": "1,33,263/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1491199575php89HxOT_g.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1985"
+    },
+    {
+      "id": 23,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Terna Engineering College",
+      "clgLocation": "Nerul",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "91.97",
+      "twentyTWOPercent": "89.16",
+      "twentyONEPercent": "89.28",
+      "feeAmount": "1,30,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1664365553TernaBuildingmin3.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+    {
+      "id": 24,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Shree L.R. Tiwari College of Engineering",
+      "clgLocation": "Mira Road",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "89.13",
+      "twentyTWOPercent": "87.51",
+      "twentyONEPercent": "88.36",
+      "feeAmount": "96,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2010"
+    },
+    {
+      "id": 25,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's M.H. Saboo Siddik College",
+      "clgLocation": "Byculla",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "89.54",
+      "twentyTWOPercent": "87.30",
+      "twentyONEPercent": "87.72",
+      "feeAmount": "1,40,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1548231310phplmaY9N.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1936"
+    },
+      {
+      "id": 26,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Lokmanya Tilak College of Engineering",
+      "clgLocation": "Kopar Khairane",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "88.24",
+      "twentyTWOPercent": "83.07",
+      "twentyONEPercent": "84.63",
+      "feeAmount": "1,25,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1994"
+    },
+     {
+      "id": 27,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Vasantdada Patil Pratishthan's College Of Engineering",
+      "clgLocation": "Sion",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "89.05",
+      "twentyTWOPercent": "85.83",
+      "twentyONEPercent": "86.29",
+      "feeAmount": "1,46,205/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://pvppcoe.ac.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-11.11.20-PM.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1980"
+    },
+     {
+      "id": 28,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Smt. Indira Gandhi College of Engineering",
+      "clgLocation": "Ghansoli",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "87.12",
+      "twentyTWOPercent": "83.34",
+      "twentyONEPercent": "82.09",
+      "feeAmount": "85,660/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1589784998phpFLlyPi.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1993"
+    },
+      {
+      "id": 29,
+      "actualRating": 4.0 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Saraswati Education Society's Saraswati College",
+      "clgLocation": "Kharghar",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "86.91",
+      "twentyTWOPercent": "82.52",
+      "twentyONEPercent": "84.55",
+      "feeAmount": "1,00,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/saraswati-college-of-engineering-navi-mumbai-255695.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2004"
+    },
+    {
+      "id": 30,
+      "actualRating": 4.3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "A. P. Shah Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "90.67",
+      "twentyTWOPercent": "85.27",
+      "twentyONEPercent": "86.16",
+      "feeAmount": "1,18,406/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2014"
+    },
+    
+     {
+      "id": 32,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "M.G.M.'s College of Engineering and Technology",
+      "clgLocation": "Kamothe",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "83.22",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "79.72",
+      "feeAmount": "69,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://fastly.4sqi.net/img/general/600x600/16191769_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1982"
+    },
+    {
+      "id": 33,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Jawahar Education Society's College",
+      "clgLocation": "Kharghar",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "87.66",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "80.60",
+      "feeAmount": "1,08,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/1530187721AppNew.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1992"
+    },
+  {
+      "id": 34,
+      "actualRating": 3.2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": " K.C. College of Engineering",
+      "clgLocation": "Thane",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "84.86",
+      "twentyTWOPercent": "76.22",
+      "twentyONEPercent": "82.25",
+      "feeAmount": "1,30,00/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://static.zollege.in/public/college_data/images/appImage/164845892020200924.jpg?tr=h-250,w-400,c-force",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+    {
+      "id": 35,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "New Horizon Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "85.63",
+      "twentyTWOPercent": "76.48",
+      "twentyONEPercent": "71.95",
+      "feeAmount": "72,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsrZi0dZRL5fzHaBKhz_TrTVlWz827dCKMiiHrkHAfGNMZcJeoedBEEYU_5qMQDOHh-U&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2014"
+    },
+    {
+      "id": 36,
+      "actualRating": 3.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Shivajirao S. Jondhale College of Engineering",
+      "clgLocation": "Dombivali",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "81.75",
+      "twentyTWOPercent": "70.89",
+      "twentyONEPercent": "71.80",
+      "feeAmount": "97,380/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://www.collegebatch.com/static/clg-gallery/shivajirao-s-jondhale-college-of-engineering-thane-255935.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1994"
+    },
+     {
+      "id": 37,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's Kalsekar Technical Campus,",
+      "clgLocation": "Panvel",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "81.62",
+      "twentyTWOPercent": "72.96",
+      "twentyONEPercent": "70.59",
+      "feeAmount": "87,520/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.shiksha.com/mediadata/images/1585027034phpd8dFX0.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2011"
+    },
+  {
+      "id": 38,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Konkan Gyanpeeth College of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "68.57",
+      "twentyTWOPercent": "56.80",
+      "twentyONEPercent": "55.51",
+      "feeAmount": "94,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/14027_slide-2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1994"
+    },
+    {
+      "id": 39,
+      "actualRating": 2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685122b1f6a53600ba761_2-STAR.png",
+      "clgName": "Saraswati Education Society Institute of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "Computer Engineering",
+      "twentyThreePercent": "64.88",
+      "twentyTWOPercent": "58.60",
+      "twentyONEPercent": "23.50",
+      "feeAmount": "66,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://img.studyclap.com/img/institute/college/360x239/1202/ytcem-raigad-campus-57bbf2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2005"
+    },
 
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1999"
-},
 
-{
-  "id": 21,
-  "actualRating": 4.1 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Mahatma Education Society's Pillai College of Engineering",
-  "clgLocation": "New Panvel",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "93.08",
-  "twentyTWOPercent": "90.62",
-  "twentyONEPercent": "91.06",
-  "feeAmount": "1,38,354/-",
-  "clgImg":
-    "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
-  "isGov": false,
-  "isAutonomous": true,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "1999"
-},
-{
-  "id": 22,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College",
-  "clgLocation": "Chembur",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "91.25",
-  "twentyTWOPercent": "89.61",
-  "twentyONEPercent": "89.65",
-  "feeAmount": "1,33,263/-",
-  "clgImg":
-    "https://images.shiksha.com/mediadata/images/1491199575php89HxOT_g.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "1985"
-},
-{
-  "id": 23,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Terna Engineering College",
-  "clgLocation": "Nerul",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "91.97",
-  "twentyTWOPercent": "89.16",
-  "twentyONEPercent": "89.28",
-  "feeAmount": "1,30,000/-",
-  "clgImg":
-    "https://images.collegedunia.com/public/college_data/images/appImage/1664365553TernaBuildingmin3.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "1991"
-},
-{
-  "id": 24,
-  "actualRating": 3.6 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Shree L.R. Tiwari College of Engineering",
-  "clgLocation": "Mira Road",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "89.13",
-  "twentyTWOPercent": "87.51",
-  "twentyONEPercent": "88.36",
-  "feeAmount": "96,000/-",
-  "clgImg":
-    "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "2010"
-},
-{
-  "id": 25,
-  "actualRating": 3.6 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering",
-  "clgLocation": "Byculla",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "89.54",
-  "twentyTWOPercent": "87.30",
-  "twentyONEPercent": "87.72",
-  "feeAmount": "1,40,000/-",
-  "clgImg":
-    "https://images.shiksha.com/mediadata/images/1548231310phplmaY9N.png",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "1936"
-},
+    
+
+    {
+      "id": 40,
+      "actualRating": 4.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685125a96965b996de20d_4-HALF.png",
+      "clgName": "Veermata Jijabai Technological Institute(VJTI)",
+      "clgLocation": "Matunga",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "99.01",
+      "twentyTWOPercent": "99.20",
+      "twentyONEPercent": "98.21",
+      "feeAmount": "85551/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vjti.ac.in/wp-content/uploads/2021/07/VJTI-LandingPageV3-768x393.jpg",
+  
+      "isGov": true,
+      "isAutonomous": true,
+      "isAided": true,
+      "isNonminority": true,
+      "est": "1887"
+    },
+  
   {
-  "id": 26,
-  "actualRating": 3 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Lokmanya Tilak College of Engineering",
-  "clgLocation": "Kopar Khairane",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "88.24",
-  "twentyTWOPercent": "83.07",
-  "twentyONEPercent": "84.63",
-  "feeAmount": "1,25,000/-",
-  "clgImg":
-    "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "1994"
-},
- {
-  "id": 27,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Vasantdada Patil Pratishthan's College Of Engineering",
-  "clgLocation": "Sion",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "89.05",
-  "twentyTWOPercent": "85.83",
-  "twentyONEPercent": "86.29",
-  "feeAmount": "1,46,205/-",
-  "clgImg":
-    "https://pvppcoe.ac.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-11.11.20-PM.jpeg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1980"
-},
- {
-  "id": 28,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Smt. Indira Gandhi College of Engineering",
-  "clgLocation": "Ghansoli",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "87.12",
-  "twentyTWOPercent": "83.34",
-  "twentyONEPercent": "82.09",
-  "feeAmount": "85,660/-",
-  "clgImg":
-    "https://images.shiksha.com/mediadata/images/1589784998phpFLlyPi.jpeg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1993"
-},
+      "id": 41,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685125a96965b996de20d_4-HALF.png",
+      "clgName": "Bhartiya VidyaBhavan Sardar Patel Institute of Technology",
+      "clgLocation": "Andheri",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "98.55",
+      "twentyTWOPercent": "98.39",
+      "twentyONEPercent": "98.32",
+      "feeAmount": "95567/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://i.ytimg.com/vi/BEjLcQGDvps/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARsbc64_0XkrOma5CP-hiiVXETWg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1962"
+    },
+  
   {
-  "id": 29,
-  "actualRating": 4.0 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Saraswati Education Society's Saraswati College of Engineering",
-  "clgLocation": "Kharghar",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "86.91",
-  "twentyTWOPercent": "82.52",
-  "twentyONEPercent": "84.55",
-  "feeAmount": "1,00,000/-",
-  "clgImg":
-    "https://www.collegebatch.com/static/clg-gallery/saraswati-college-of-engineering-navi-mumbai-255695.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "2004"
-},
-{
-  "id": 30,
-  "actualRating": 4.3 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "A. P. Shah Institute of Technology",
-  "clgLocation": "Thane",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "90.67",
-  "twentyTWOPercent": "85.27",
-  "twentyONEPercent": "86.16",
-  "feeAmount": "1,18,406/-",
-  "clgImg":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "2014"
-},
-{
-  "id": 31,
-  "actualRating": 3 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "M.G.M.'s College of Engineering and Technology",
-  "clgLocation": "Kamothe",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "83.22",
-  "twentyTWOPercent": "79.30",
-  "twentyONEPercent": "79.72",
-  "feeAmount": "69,000/-",
-  "clgImg":"https://fastly.4sqi.net/img/general/600x600/16191769_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1982"
-},
- {
-  "id": 32,
-  "actualRating": 3 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "M.G.M.'s College of Engineering and Technology",
-  "clgLocation": "Kamothe",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "83.22",
-  "twentyTWOPercent": "79.30",
-  "twentyONEPercent": "79.72",
-  "feeAmount": "69,000/-",
-  "clgImg":"https://fastly.4sqi.net/img/general/600x600/16191769_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1982"
-},
-{
-  "id": 33,
-  "actualRating": 3 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering",
-  "clgLocation": "Kharghar",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "87.66",
-  "twentyTWOPercent": "79.30",
-  "twentyONEPercent": "80.60",
-  "feeAmount": "1,08,000/-",
-  "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/1530187721AppNew.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1992"
-},
-{
-  "id": 34,
-  "actualRating": 3.2 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": " Excelsior Education Society's K.C. College of Engineering",
-  "clgLocation": "Thane",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "84.86",
-  "twentyTWOPercent": "76.22",
-  "twentyONEPercent": "82.25",
-  "feeAmount": "1,30,00/-",
-  "clgImg":"https://static.zollege.in/public/college_data/images/appImage/164845892020200924.jpg?tr=h-250,w-400,c-force",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "2001"
-},
-{
-  "id": 35,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "New Horizon Institute of Technology",
-  "clgLocation": "Thane",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "85.63",
-  "twentyTWOPercent": "76.48",
-  "twentyONEPercent": "71.95",
-  "feeAmount": "72,000/-",
-  "clgImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsrZi0dZRL5fzHaBKhz_TrTVlWz827dCKMiiHrkHAfGNMZcJeoedBEEYU_5qMQDOHh-U&usqp=CAU",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "2014"
-},
-{
-  "id": 36,
-  "actualRating": 3.1 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Shivajirao S. Jondhale College of Engineering",
-  "clgLocation": "Dombivali",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "81.75",
-  "twentyTWOPercent": "70.89",
-  "twentyONEPercent": "71.80",
-  "feeAmount": "97,380/-",
-  "clgImg":"https://www.collegebatch.com/static/clg-gallery/shivajirao-s-jondhale-college-of-engineering-thane-255935.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1994"
-},
- {
-  "id": 37,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Anjuman-I-Islam's Kalsekar Technical Campus,",
-  "clgLocation": "Panvel",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "81.62",
-  "twentyTWOPercent": "72.96",
-  "twentyONEPercent": "70.59",
-  "feeAmount": "87,520/-",
-  "clgImg":"https://images.shiksha.com/mediadata/images/1585027034phpd8dFX0.jpeg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": false,
-  "est": "2011"
-},
-{
-  "id": 38,
-  "actualRating": 3.5 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Konkan Gyanpeeth College of Engineering",
-  "clgLocation": "Karjat",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "68.57",
-  "twentyTWOPercent": "56.80",
-  "twentyONEPercent": "55.51",
-  "feeAmount": "94,000/-",
-  "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/14027_slide-2.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "1994"
-},
-{
-  "id": 39,
-  "actualRating": 2 ,
-  "ratingStar":
-    "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
-  "clgName": "Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering",
-  "clgLocation": "Karjat",
-  "Branch": "Computer Engineering",
-  "twentyThreePercent": "64.88",
-  "twentyTWOPercent": "58.60",
-  "twentyONEPercent": "23.50",
-  "feeAmount": "66,000/-",
-  "clgImg":"https://img.studyclap.com/img/institute/college/360x239/1202/ytcem-raigad-campus-57bbf2.jpg",
-  "isGov": false,
-  "isAutonomous": false,
-  "isAided": false,
-  "isNonminority": true,
-  "est": "2005"
+      "id": 43,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College",
+      "clgLocation": "Vile Parle",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "97.54",
+      "twentyTWOPercent": "96.31",
+      "twentyONEPercent": "95.12",
+      "feeAmount": "90150/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1547448474phptA5OsA.png",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1994"
+    },
+  
+  {
+      "id": 44,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thadomal Shahani Engineering College",
+      "clgLocation": "Bandra",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "96.21",
+      "twentyTWOPercent": "95.12",
+      "twentyONEPercent": "94.31",
+      "feeAmount": "132250/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1566293742phpRVy7Mk.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1983"
+    },
+  
+  {
+      "id": 45,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vivekanand Education Institute of Technology",
+      "clgLocation": "Chembur",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "96.64",
+      "twentyTWOPercent": "96.36",
+      "twentyONEPercent": "95.24",
+      "feeAmount": "135670/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2018/10/Vivekanand_Education_Society_s_Institute_of_Technology.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1984"
+    },
+  
+  {
+      "id": 46,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "K J Somaiya Institute of Engineering ",
+      "clgLocation": " Sion",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "94.17",
+      "twentyTWOPercent": "93.21",
+      "twentyONEPercent": "92.36",
+      "feeAmount": "138578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1556619756phpWx1A3f.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+  
+  {
+      "id": 47,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Fr. Conceicao Rodrigues College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "93.47",
+      "twentyTWOPercent": "91.25",
+      "twentyONEPercent": "90.36",
+      "feeAmount": "133452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fr._CRCE.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1984"
+    },
+  
+  {
+      "id": 48,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyalankar Institute of Technology",
+      "clgLocation": "Wadala",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "93.75",
+      "twentyTWOPercent": "92.78",
+      "twentyONEPercent": "90.36",
+      "feeAmount": "144582/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vit.edu.in/images/life1.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1997"
+    },
+  
+  {
+      "id": 49,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Agnel Charities' FR. C. Rodrigues Institute of Technology",
+      "clgLocation": "Vashi",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "92.65",
+      "twentyTWOPercent": "90.37",
+      "twentyONEPercent": "89.36",
+      "feeAmount": "136845/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/navi_mumbai/v3/022pxx22.xx22.000584015227.k5v3/catalogue/fr-agnel-technical-education-complex-vashi-navi-mumbai-colleges-830nki8ojg.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+  
+  {
+      "id": 50,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thakur College of Engineering and Technology",
+      "clgLocation": "Kandivali",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "92.45",
+      "twentyTWOPercent": "90.63",
+      "twentyONEPercent": "89.63",
+      "feeAmount": "145218/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.static-contents.youth4work.com/university/Documents/Colleges/newsEvent/4ed6b0c2-fe4e-4037-8a80-8d90d4f89d5d.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1999"
+    },
+  
+  {
+      "id": 51,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Don Bosco Institute of Technology",
+      "clgLocation": "Kurla",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "92.89",
+      "twentyTWOPercent": "91.23",
+      "twentyONEPercent": "90.63",
+      "feeAmount": "134586/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.theassociates.co.in/wp-content/uploads/2021/07/m14.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1992"
+    },
+  
+  {
+      "id": 52,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Manjara Trust's Rajiv Gandhi Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "90.25",
+      "twentyTWOPercent": "92.01",
+      "twentyONEPercent": "90.52",
+      "feeAmount": "138759/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/14734_RGIT_New.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1996"
+    },
+  
+  {
+      "id": 53,
+      "actualRating": 3.8,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Xavier Institute Of Engineering ",
+      "clgLocation": "Mahim",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "92.07",
+      "twentyTWOPercent": "91.25",
+      "twentyONEPercent": "90.36",
+      "feeAmount": "1379548/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2019/05/Xavier-Institute-of-Engineering.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2003"
+    },
+  
+  {
+      "id": 54,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": " St. Francis Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "91.36",
+      "twentyTWOPercent": "90.52",
+      "twentyONEPercent": "89.63",
+      "feeAmount": "132678/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/mumbai/d6/022pxx22.xx22.170901141300.l7d6/catalogue/st-francis-institute-of-technology-engineering-college-borivali-west-mumbai-colleges-pldcw0ujuc.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 55,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "S.I.E.S. Graduate School of Technology",
+      "clgLocation": "Nerul",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "92.33",
+      "twentyTWOPercent": "89.63",
+      "twentyONEPercent": "88.63",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1555324229phpPLACuW.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2002"
+    },
+  
+  {
+      "id": 56,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyavardhini's College of Engineering",
+      "clgLocation": "Vasai",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "90.96",
+      "twentyTWOPercent": "90.55",
+      "twentyONEPercent": "88.63",
+      "feeAmount": "136578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1560142232phpXE4NVo.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+  
+  {
+      "id": 57,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Bharati Vidyapeeth College of Engineering",
+      "clgLocation": "Borivali",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "90.65",
+      "twentyTWOPercent": "86.56",
+      "twentyONEPercent": "85.54",
+      "feeAmount": "135468/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1480663009phpF68yaT.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1989"
+    },
+  
+  {
+      "id": 58,
+      "actualRating": 3.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Rizvi College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "89.76",
+      "twentyTWOPercent": "88.36",
+      "twentyONEPercent": "88.96",
+      "feeAmount": "130000",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1500017268cvr.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 59,
+      "actualRating": 3.7,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "N.Y.S.S.'s Datta Meghe College of Engineering",
+      "clgLocation": "Airoli",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "90.96",
+      "twentyTWOPercent": "87.58",
+      "twentyONEPercent": "86.36",
+      "feeAmount": "142050",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1495433847phpN0ARqD.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 60,
+      "actualRating": 4,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Atharva College of Engineering",
+      "clgLocation": "Malad",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "89.05",
+      "twentyTWOPercent": "84.96",
+      "twentyONEPercent": "83.22",
+      "feeAmount": "88,926/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/atharva-college-of-engineering-mumbai-231554.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1999"
+    },
+    {
+      "id": 61,
+      "actualRating": 4.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Mahatma Education Society's Pillai College",
+      "clgLocation": "New Panvel",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "90.08",
+      "twentyTWOPercent": "88.96",
+      "twentyONEPercent": "85.36",
+      "feeAmount": "1,38,354/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1999"
+    },
+    {
+      "id": 62,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Mahavir Education Trust's Shah & Anchor College",
+      "clgLocation": "Chembur",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "88.25",
+      "twentyTWOPercent": "85.96",
+      "twentyONEPercent": "83.63",
+      "feeAmount": "1,33,263/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1491199575php89HxOT_g.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1985"
+    },
+    {
+      "id": 63,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Terna Engineering College",
+      "clgLocation": "Nerul",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "86.97",
+      "twentyTWOPercent": "85.63",
+      "twentyONEPercent": "82.88",
+      "feeAmount": "1,30,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1664365553TernaBuildingmin3.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+    {
+      "id": 64,
+      "actualRating": 3.6 ,
+      "ratingStar":
+      "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Shree L.R. Tiwari College of Engineering",
+      "clgLocation": "Mira Road",
+      "Branch": "Information Technology",
+      "twentyThreePercent":"86.15",
+      "twentyTWOPercent": "85.96",
+      "twentyONEPercent": "82.36",
+      "feeAmount": "96,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2010"
+    },
+    {
+      "id": 65,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's M.H. Saboo Siddik College",
+      "clgLocation": "Byculla",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "86.89",
+      "twentyTWOPercent": "85.63",
+      "twentyONEPercent": "80.00",
+      "feeAmount": "1,40,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1548231310phplmaY9N.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1936"
+    },
+      {
+      "id": 66,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Lokmanya Tilak College of Engineering",
+      "clgLocation": "Kopar Khairane",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "80.96",
+      "twentyTWOPercent": "78.80",
+      "twentyONEPercent": "78.36",
+      "feeAmount": "1,25,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1994"
+    },
+     {
+      "id": 67,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Vasantdada Patil Pratishthan's College Of Engineering",
+      "clgLocation": "Sion",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "85.63",
+      "twentyTWOPercent": "82.36",
+      "twentyONEPercent": "80.63",
+      "feeAmount": "1,46,205/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://pvppcoe.ac.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-11.11.20-PM.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1980"
+    },
+     {
+      "id": 68,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Smt. Indira Gandhi College of Engineering",
+      "clgLocation": "Ghansoli",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "",
+      "twentyTWOPercent": "",
+      "twentyONEPercent": "",
+      "feeAmount": "85,660/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1589784998phpFLlyPi.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1993"
+    },
+      {
+      "id": 69,
+      "actualRating": 4.0 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Saraswati Education Society's Saraswati College",
+      "clgLocation": "Kharghar",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "",
+      "twentyTWOPercent": "",
+      "twentyONEPercent": "",
+      "feeAmount": "1,00,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/saraswati-college-of-engineering-navi-mumbai-255695.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2004"
+    },
+    {
+      "id": 70,
+      "actualRating": 4.3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "A. P. Shah Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "86.30",
+      "twentyTWOPercent": "86.32",
+      "twentyONEPercent": "85.36",
+      "feeAmount": "1,18,406/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2014"
+    },
+    
+     {
+      "id": 72,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "M.G.M.'s College of Engineering and Technology",
+      "clgLocation": "Kamothe",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "78.26",
+      "twentyTWOPercent": "75.35",
+      "twentyONEPercent": "70.25",
+      "feeAmount": "69,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://fastly.4sqi.net/img/general/600x600/16191769_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1982"
+    },
+    {
+      "id": 73,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Jawahar Education Society's College",
+      "clgLocation": "Kharghar",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "80.63",
+      "twentyTWOPercent": "77.96",
+      "twentyONEPercent": "75.26",
+      "feeAmount": "1,08,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/1530187721AppNew.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1992"
+    },
+  {
+      "id": 74,
+      "actualRating": 3.2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": " K.C. College of Engineering",
+      "clgLocation": "Thane",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "83.63",
+      "twentyTWOPercent": "74.32",
+      "twentyONEPercent": "75.20",
+      "feeAmount": "1,30,00/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://static.zollege.in/public/college_data/images/appImage/164845892020200924.jpg?tr=h-250,w-400,c-force",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+    {
+      "id": 75,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "New Horizon Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "",
+      "twentyTWOPercent": "",
+      "twentyONEPercent": "",
+      "feeAmount": "72,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsrZi0dZRL5fzHaBKhz_TrTVlWz827dCKMiiHrkHAfGNMZcJeoedBEEYU_5qMQDOHh-U&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2014"
+    },
+    {
+      "id": 76,
+      "actualRating": 3.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Shivajirao S. Jondhale College of Engineering",
+      "clgLocation": "Dombivali",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "80.96",
+      "twentyTWOPercent": "70.63",
+      "twentyONEPercent": "66.32",
+      "feeAmount": "97,380/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://www.collegebatch.com/static/clg-gallery/shivajirao-s-jondhale-college-of-engineering-thane-255935.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1994"
+    },
+     {
+      "id": 77,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's Kalsekar Technical Campus,",
+      "clgLocation": "Panvel",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "",
+      "twentyTWOPercent": "",
+      "twentyONEPercent": "",
+      "feeAmount": "87,520/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.shiksha.com/mediadata/images/1585027034phpd8dFX0.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2011"
+    },
+  {
+      "id": 78,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Konkan Gyanpeeth College of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "67.02",
+      "twentyTWOPercent": "34.21",
+      "twentyONEPercent": "25.63",
+      "feeAmount": "94,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/14027_slide-2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1994"
+    },
+    {
+      "id": 79,
+      "actualRating": 2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685122b1f6a53600ba761_2-STAR.png",
+      "clgName": "Saraswati Education Society Institute of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "Information Technology",
+      "twentyThreePercent": "",
+      "twentyTWOPercent": "",
+      "twentyONEPercent": "",
+      "feeAmount": "66,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://img.studyclap.com/img/institute/college/360x239/1202/ytcem-raigad-campus-57bbf2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2005"
+    },
+    {
+    "id": 80,
+      "actualRating": 4.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685125a94945b956de20d_4-HALF.png",
+      "clgName": "Veermata Jijabai Technological Institute(VJTI)",
+      "clgLocation": "Matunga",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "95.94",
+      "twentyTWOPercent": "94.52",
+      "twentyONEPercent": "95.48",
+      "feeAmount": "85551/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vjti.ac.in/wp-content/uploads/2021/07/VJTI-LandingPageV3-948x393.jpg",
+  
+      "isGov": true,
+      "isAutonomous": true,
+      "isAided": true,
+      "isNonminority": true,
+      "est": "1777"
+    },
+  
+  {
+      "id": 81,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685125a94945b956de20d_4-HALF.png",
+      "clgName": "Bhartiya VidyaBhavan Sardar Patel Institute of Technology",
+      "clgLocation": "Andheri",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "95.42",
+      "twentyTWOPercent": "94.54",
+      "twentyONEPercent": "95.62",
+      "feeAmount": "95567/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://i.ytimg.com/vi/BEjLcQGDvps/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARsbc64_0XkrOma5CP-hiiVXETWg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1942"
+    },
+  
+  {
+      "id": 82,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College",
+      "clgLocation": "Vile Parle",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.24",
+      "twentyTWOPercent": "95.87",
+      "twentyONEPercent": "95.43",
+      "feeAmount": "90150/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1547448474phptA5OsA.png",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1954"
+    },
+  
+  {
+      "id": 83,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thadomal Shahani Engineering College",
+      "clgLocation": "Bandra",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.04",
+      "twentyTWOPercent": "95.81",
+      "twentyONEPercent": "94.54",
+      "feeAmount": "132250/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1543293742phpRVy7Mk.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1943"
+    },
+  
+  {
+      "id": 84,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vivekanand Education Institute of Technology",
+      "clgLocation": "Chembur",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "95.44",
+      "twentyTWOPercent": "94.49",
+      "twentyONEPercent": "95.84",
+      "feeAmount": "135670/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2018/10/Vivekanand_Education_Society_s_Institute_of_Technology.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1944"
+    },
+  
+  {
+      "id": 85,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "K J Somaiya Institute of Engineering ",
+      "clgLocation": " Sion",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "95.62",
+      "twentyTWOPercent": "95.33",
+      "twentyONEPercent": "94.41",
+      "feeAmount": "138578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1554319556phpWx1A3f.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+  
+  {
+      "id": 86,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Fr. Conceicao Rodrigues College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.46",
+      "twentyTWOPercent": "90.40",
+      "twentyONEPercent": "89.35",
+      "feeAmount": "133452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fr._CRCE.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1944"
+    },
+  
+  {
+      "id": 87,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyalankar Institute of Technology",
+      "clgLocation": "Wadala",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.42",
+      "twentyTWOPercent": "95.32",
+      "twentyONEPercent": "94.84",
+      "feeAmount": "144452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vit.edu.in/images/life1.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1957"
+    },
+  
+  {
+      "id": 88,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Agnel Charities' FR. C. Rodrigues Institute of Technology",
+      "clgLocation": "Vashi",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.85",
+      "twentyTWOPercent": "95.24",
+      "twentyONEPercent": "94.43",
+      "feeAmount": "136845/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/navi_mumbai/v3/022pxx22.xx22.000454015227.k5v3/catalogue/fr-agnel-technical-education-complex-vashi-navi-mumbai-colleges-830nki8ojg.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1951"
+    },
+  
+  {
+      "id": 89,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thakur College of Engineering and Technology",
+      "clgLocation": "Kandivali",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.10",
+      "twentyTWOPercent": "94.82",
+      "twentyONEPercent": "95.55",
+      "feeAmount": "145218/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.static-contents.youth4work.com/university/Documents/Colleges/newsEvent/4ed6b0c2-fe4e-4037-8a80-8d90d4f89d5d.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1959"
+    },
+  
+  {
+      "id": 90,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Don Bosco Institute of Technology",
+      "clgLocation": "Kurla",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "95.11",
+      "twentyTWOPercent": "94.61",
+      "twentyONEPercent": "93.34",
+      "feeAmount": "134456/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.theassociates.co.in/wp-content/uploads/2021/07/m14.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1952"
+    },
+  
+  {
+      "id": 91,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Manjara Trust's Rajiv Gandhi Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "93.12",
+      "twentyTWOPercent": "93.08",
+      "twentyONEPercent": "93.73",
+      "feeAmount": "138759/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/14734_RGIT_New.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1956"
+    },
+  
+  {
+      "id": 92,
+      "actualRating": 3.8,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Xavier Institute Of Engineering ",
+      "clgLocation": "Mahim",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "92.84",
+      "twentyONEPercent": "93.52",
+      "feeAmount": "1379548/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2019/05/Xavier-Institute-of-Engineering.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2003"
+    },
+  
+  {
+      "id": 93,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": " St. Francis Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.43",
+      "twentyTWOPercent": "93.17",
+      "twentyONEPercent": "94.61",
+      "feeAmount": "132678/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/mumbai/d6/022pxx22.xx22.170901141300.l7d6/catalogue/st-francis-institute-of-technology-engineering-college-borivali-west-mumbai-colleges-pldcw0ujuc.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1953"
+    },
+  
+  {
+      "id": 94,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "S.I.E.S. Graduate School of Technology",
+      "clgLocation": "Nerul",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "95.33",
+      "twentyTWOPercent": "93.48",
+      "twentyONEPercent": "93.48",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1555324229phpPLACuW.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2002"
+    },
+  
+  {
+      "id": 95,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyavardhini's College of Engineering",
+      "clgLocation": "Vasai",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "91.48",
+      "twentyTWOPercent": "93.86",
+      "twentyONEPercent": "92.68",
+      "feeAmount": "136578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1560142232phpXE4NVo.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1951"
+    },
+  
+  {
+      "id": 96,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Bharati Vidyapeeth College of Engineering",
+      "clgLocation": "Borivali",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.65",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "87.43",
+      "feeAmount": "135468/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1480433009phpF68yaT.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1949"
+    },
+  
+  {
+      "id": 97,
+      "actualRating": 3.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Rizvi College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "91.91",
+      "twentyTWOPercent": "89.85",
+      "twentyONEPercent": "90.41",
+      "feeAmount": "130000",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1500017268cvr.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1953"
+    },
+  
+  {
+      "id": 98,
+      "actualRating": 3.7,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "N.Y.S.S.'s Datta Meghe College of Engineering",
+      "clgLocation": "Airoli",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "94.56",
+      "twentyTWOPercent": "89.81",
+      "twentyONEPercent": "90.03",
+      "feeAmount": "142050",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1495433847phpN0ARqD.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1953"
+    },
+  
+  {
+      "id": 99,
+      "actualRating": 4,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Atharva College of Engineering",
+      "clgLocation": "Malad",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "92.05",
+      "twentyTWOPercent": "89.38",
+      "twentyONEPercent": "92.63",
+      "feeAmount": "77,926/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/atharva-college-of-engineering-mumbai-231554.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1959"
+    },
+    {
+      "id": 100,
+      "actualRating": 4.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Mahatma Education Society's Pillai College",
+      "clgLocation": "New Panvel",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "91.06",
+      "feeAmount": "1,38,354/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1959"
+    },
+    {
+      "id": 101,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Mahavir Education Trust's Shah & Anchor College",
+      "clgLocation": "Chembur",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "91.25",
+      "twentyTWOPercent": "89.61",
+      "twentyONEPercent": "89.65",
+      "feeAmount": "1,33,263/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1491195575php89HxOT_g.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1945"
+    },
+    {
+      "id": 102,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Terna Engineering College",
+      "clgLocation": "Nerul",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "91.95",
+      "twentyTWOPercent": "89.16",
+      "twentyONEPercent": "89.28",
+      "feeAmount": "1,30,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1434365553TernaBuildingmin3.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1951"
+    },
+    {
+      "id": 103,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Shree L.R. Tiwari College of Engineering",
+      "clgLocation": "Mira Road",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "89.13",
+      "twentyTWOPercent": "87.51",
+      "twentyONEPercent": "77.36",
+      "feeAmount": "94,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2010"
+    },
+    {
+      "id": 104,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's M.H. Saboo Siddik College",
+      "clgLocation": "Byculla",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "89.54",
+      "twentyTWOPercent": "87.30",
+      "twentyONEPercent": "87.72",
+      "feeAmount": "1,40,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1548231310phplmaY9N.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1936"
+    },
+      {
+      "id": 105,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Lokmanya Tilak College of Engineering",
+      "clgLocation": "Kopar Khairane",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "77.24",
+      "twentyTWOPercent": "83.07",
+      "twentyONEPercent": "84.63",
+      "feeAmount": "1,25,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1954"
+    },
+     {
+      "id": 106,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Vasantdada Patil Pratishthan's College Of Engineering",
+      "clgLocation": "Sion",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "89.05",
+      "twentyTWOPercent": "85.83",
+      "twentyONEPercent": "86.29",
+      "feeAmount": "1,46,205/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://pvppcoe.ac.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-11.11.20-PM.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1940"
+    },
+     {
+      "id": 107,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Smt. Indira Gandhi College of Engineering",
+      "clgLocation": "Ghansoli",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "87.12",
+      "twentyTWOPercent": "83.34",
+      "twentyONEPercent": "82.09",
+      "feeAmount": "85,430/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1459454945phpFLlyPi.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1953"
+    },
+      {
+      "id": 108,
+      "actualRating": 4.0 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Saraswati Education Society's Saraswati College",
+      "clgLocation": "Kharghar",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "86.91",
+      "twentyTWOPercent": "82.52",
+      "twentyONEPercent": "84.55",
+      "feeAmount": "1,00,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/saraswati-college-of-engineering-navi-mumbai-255695.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2004"
+    },
+    {
+      "id": 109,
+      "actualRating": 4.3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "A. P. Shah Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "90.67",
+      "twentyTWOPercent": "85.27",
+      "twentyONEPercent": "86.16",
+      "feeAmount": "1,18,406/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2014"
+    },
+    
+     {
+      "id": 110,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "M.G.M.'s College of Engineering and Technology",
+      "clgLocation": "Kamothe",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "83.22",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "79.72",
+      "feeAmount": "69,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://fastly.4sqi.net/img/general/600x600/16191949_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1942"
+    },
+    {
+      "id": 111,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Jawahar Education Society's College",
+      "clgLocation": "Kharghar",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "87.43",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "80.60",
+      "feeAmount": "1,08,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/1530187721AppNew.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1952"
+    },
+  {
+      "id": 112,
+      "actualRating": 3.2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": " K.C. College of Engineering",
+      "clgLocation": "Thane",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "84.86",
+      "twentyTWOPercent": "94.22",
+      "twentyONEPercent": "82.25",
+      "feeAmount": "1,30,00/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://static.zollege.in/public/college_data/images/appImage/164844592020200924.jpg?tr=h-250,w-400,c-force",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+    {
+      "id": 113,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "New Horizon Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "85.63",
+      "twentyTWOPercent": "94.48",
+      "twentyONEPercent": "71.95",
+      "feeAmount": "72,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsrZi0dZRL5fzHaBKhz_TrTVlWz827dCKMiiHrkHAfGNMZcJeoedBEEYU_5qMQDOHh-U&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2014"
+    },
+    {
+      "id": 114,
+      "actualRating": 3.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Shivajirao S. Jondhale College of Engineering",
+      "clgLocation": "Dombivali",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "81.75",
+      "twentyTWOPercent": "70.89",
+      "twentyONEPercent": "71.80",
+      "feeAmount": "95,380/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://www.collegebatch.com/static/clg-gallery/shivajirao-s-jondhale-college-of-engineering-thane-255935.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1954"
+    },
+     {
+      "id": 115,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's Kalsekar Technical Campus,",
+      "clgLocation": "Panvel",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "81.62",
+      "twentyTWOPercent": "72.94",
+      "twentyONEPercent": "70.59",
+      "feeAmount": "87,520/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.shiksha.com/mediadata/images/1455027034phpd8dFX0.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2011"
+    },
+  {
+      "id": 116,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/65368512ef3d727940124f0d_3-HALF.png",
+      "clgName": "Konkan Gyanpeeth College of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "68.57",
+      "twentyTWOPercent": "56.80",
+      "twentyONEPercent": "55.51",
+      "feeAmount": "94,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/14027_slide-2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1954"
+    },
+    {
+      "id": 117,
+      "actualRating": 2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b43a44c38c5fa4309e5a/653685122b1f6a53600ba941_2-STAR.png",
+      "clgName": "Saraswati Education Society Institute of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "EXTC Engineering",
+      "twentyThreePercent": "64.77",
+      "twentyTWOPercent": "45.60",
+      "twentyONEPercent": "23.50",
+      "feeAmount": "43,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://img.studyclap.com/img/institute/college/360x239/1202/ytcem-raigad-campus-57bbf2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2005"
+     },
+     {
+     "id": 118,
+      "actualRating": 4.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685125a90954b886de20d_4-HALF.png",
+      "clgName": "Veermata Jijabai Technological Institute(VJTI)",
+      "clgLocation": "Matunga",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "88.76",
+      "twentyTWOPercent": "86.52",
+      "twentyONEPercent": "88.48",
+      "feeAmount": "85551/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vjti.ac.in/wp-content/uploads/2021/07/VJTI-LandingPageV3-768x393.jpg",
+  
+      "isGov": true,
+      "isAutonomous": true,
+      "isAided": true,
+      "isNonminority": true,
+      "est": "1887"
+    },
+  
+  {
+      "id": 119,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685125a90954b886de20d_4-HALF.png",
+      "clgName": "Bhartiya VidyaBhavan Sardar Patel Institute of Technology",
+      "clgLocation": "Andheri",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "88.42",
+      "twentyTWOPercent": "86.54",
+      "twentyONEPercent": "88.62",
+      "feeAmount": "95567/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://i.ytimg.com/vi/BEjLcQGDvps/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARsbc64_0XkrOma5CP-hiiVXETWg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1902"
+    },
+  
+  {
+      "id": 120,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College",
+      "clgLocation": "Vile Parle",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "86.24",
+      "twentyTWOPercent": "89.87",
+      "twentyONEPercent": "88.43",
+      "feeAmount": "90150/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1547448474phptA5OsA.png",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1884"
+    },
+  
+  {
+      "id":121,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thadomal Shahani Engineering College",
+      "clgLocation": "Bandra",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "86.04",
+      "twentyTWOPercent": "89.81",
+      "twentyONEPercent": "86.54",
+      "feeAmount": "132250/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1566293742phpRVy7Mk.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1863"
+    },
+  
+  {
+      "id": 122,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vivekanand Education Institute of Technology",
+      "clgLocation": "Chembur",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "89.44",
+      "twentyTWOPercent": "86.49",
+      "twentyONEPercent": "88.84",
+      "feeAmount": "135670/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2018/10/Vivekanand_Education_Society_s_Institute_of_Technology.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1864"
+    },
+  
+  {
+      "id": 123,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "K J Somaiya Institute of Engineering ",
+      "clgLocation": " Sion",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "89.62",
+      "twentyTWOPercent": "95.33",
+      "twentyONEPercent": "90.41",
+      "feeAmount": "138578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1556618956phpWx1A3f.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+  
+  {
+      "id": 124,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Fr. Conceicao Rodrigues College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "94.46",
+      "twentyTWOPercent": "90.40",
+      "twentyONEPercent": "89.35",
+      "feeAmount": "133452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fr._CRCE.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1864"
+    },
+  
+  {
+      "id": 125,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyalankar Institute of Technology",
+      "clgLocation": "Wadala",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "90.42",
+      "twentyTWOPercent": "95.32",
+      "twentyONEPercent": "94.84",
+      "feeAmount": "144582/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vit.edu.in/images/life1.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1887"
+    },
+  
+  {
+      "id": 126,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Agnel Charities' FR. C. Rodrigues Institute of Technology",
+      "clgLocation": "Vashi",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "90.85",
+      "twentyTWOPercent": "95.24",
+      "twentyONEPercent": "94.43",
+      "feeAmount": "136845/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/navi_mumbai/v3/022pxx22.xx22.000584015227.k5v3/catalogue/fr-agnel-technical-education-complex-vashi-navi-mumbai-colleges-830nki8ojg.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1881"
+    },
+  
+  {
+      "id": 127,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thakur College of Engineering and Technology",
+      "clgLocation": "Kandivali",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "90.10",
+      "twentyTWOPercent": "94.82",
+      "twentyONEPercent": "95.55",
+      "feeAmount": "145218/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.static-contents.youth4work.com/university/Documents/Colleges/newsEvent/4ed6b0c2-fe4e-4037-8a80-8d90d4f89d5d.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1889"
+    },
+  
+  {
+      "id": 128,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Don Bosco Institute of Technology",
+      "clgLocation": "Kurla",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "95.11",
+      "twentyTWOPercent": "94.61",
+      "twentyONEPercent": "93.34",
+      "feeAmount": "134586/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.theassociates.co.in/wp-content/uploads/2021/07/m14.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1882"
+    },
+  
+  {
+      "id": 129,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Manjara Trust's Rajiv Gandhi Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "93.12",
+      "twentyTWOPercent": "93.08",
+      "twentyONEPercent": "93.73",
+      "feeAmount": "138759/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/14734_RGIT_New.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1886"
+    },
+  
+  {
+      "id": 130,
+      "actualRating": 3.8,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Xavier Institute Of Engineering ",
+      "clgLocation": "Mahim",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "92.84",
+      "twentyONEPercent": "93.52",
+      "feeAmount": "1379548/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2019/05/Xavier-Institute-of-Engineering.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2003"
+    },
+  
+  {
+      "id": 131,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": " St. Francis Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "94.43",
+      "twentyTWOPercent": "93.17",
+      "twentyONEPercent": "94.61",
+      "feeAmount": "132678/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/mumbai/d6/022pxx22.xx22.170901141300.l7d6/catalogue/st-francis-institute-of-technology-engineering-college-borivali-west-mumbai-colleges-pldcw0ujuc.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1883"
+    },
+  
+  {
+      "id": 132,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "S.I.E.S. Graduate School of Technology",
+      "clgLocation": "Nerul",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "95.33",
+      "twentyTWOPercent": "93.48",
+      "twentyONEPercent": "93.48",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1555324229phpPLACuW.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2002"
+    },
+  
+  {
+      "id": 133,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyavardhini's College of Engineering",
+      "clgLocation": "Vasai",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "91.48",
+      "twentyTWOPercent": "93.86",
+      "twentyONEPercent": "92.68",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1560142232phpXE4NVo.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1881"
+    },
+  
+  {
+      "id": 134,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Bharati Vidyapeeth College of Engineering",
+      "clgLocation": "Borivali",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "94.54",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "87.66",
+      "feeAmount": "135468/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1480663009phpF68yaT.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1869"
+    },
+  
+  {
+      "id": 135,
+      "actualRating": 3.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Rizvi College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "91.91",
+      "twentyTWOPercent": "89.85",
+      "twentyONEPercent": "90.41",
+      "feeAmount": "130000",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1500017268cvr.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1883"
+    },
+  
+  {
+      "id": 136,
+      "actualRating": 3.7,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "N.Y.S.S.'s Datta Meghe College of Engineering",
+      "clgLocation": "Airoli",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "94.56",
+      "twentyTWOPercent": "89.81",
+      "twentyONEPercent": "90.03",
+      "feeAmount": "142050",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1495433847phpN0ARqD.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1883"
+    },
+  
+  {
+      "id": 137,
+      "actualRating": 4,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Atharva College of Engineering",
+      "clgLocation": "Malad",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "92.05",
+      "twentyTWOPercent": "89.38",
+      "twentyONEPercent": "92.63",
+      "feeAmount": "88,926/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/atharva-college-of-engineering-mumbai-231554.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1889"
+    },
+    {
+      "id": 138,
+      "actualRating": 4.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Mahatma Education Society's Pillai College",
+      "clgLocation": "New Panvel",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "91.06",
+      "feeAmount": "1,38,354/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1889"
+    },
+    {
+      "id": 139,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Mahavir Education Trust's Shah & Anchor College",
+      "clgLocation": "Chembur",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "91.25",
+      "twentyTWOPercent": "89.61",
+      "twentyONEPercent": "89.54",
+      "feeAmount": "1,33,263/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1491188575php89HxOT_g.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1854"
+    },
+    {
+      "id": 140,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Terna Engineering College",
+      "clgLocation": "Nerul",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "91.89",
+      "twentyTWOPercent": "89.16",
+      "twentyONEPercent": "89.28",
+      "feeAmount": "1,30,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1664354553TernaBuildingmin3.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1881"
+    },
+    {
+      "id": 141,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Shree L.R. Tiwari College of Engineering",
+      "clgLocation": "Mira Road",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "89.13",
+      "twentyTWOPercent": "87.51",
+      "twentyONEPercent": "88.36",
+      "feeAmount": "90,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2010"
+    },
+    {
+      "id": 142,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's M.H. Saboo Siddik College",
+      "clgLocation": "Byculla",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "89.54",
+      "twentyTWOPercent": "87.30",
+      "twentyONEPercent": "87.72",
+      "feeAmount": "1,40,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1548231310phplmaY9N.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1936"
+    },
+      {
+      "id": 143,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Lokmanya Tilak College of Engineering",
+      "clgLocation": "Kopar Khairane",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "88.24",
+      "twentyTWOPercent": "83.07",
+      "twentyONEPercent": "84.63",
+      "feeAmount": "1,25,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1884"
+    },
+     {
+      "id": 144,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Vasantdada Patil Pratishthan's College Of Engineering",
+      "clgLocation": "Sion",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "89.05",
+      "twentyTWOPercent": "85.83",
+      "twentyONEPercent": "86.29",
+      "feeAmount": "1,46,205/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://pvppcoe.ac.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-11.11.20-PM.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1860"
+    },
+     {
+      "id": 145,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Smt. Indira Gandhi College of Engineering",
+      "clgLocation": "Ghansoli",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "87.12",
+      "twentyTWOPercent": "83.34",
+      "twentyONEPercent": "82.09",
+      "feeAmount": "85,660/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1588984888phpFLlyPi.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1883"
+    },
+      {
+      "id": 146,
+      "actualRating": 4.0 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Saraswati Education Society's Saraswati College",
+      "clgLocation": "Kharghar",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "86.91",
+      "twentyTWOPercent": "82.52",
+      "twentyONEPercent": "84.55",
+      "feeAmount": "1,00,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/saraswati-college-of-engineering-navi-mumbai-255695.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2004"
+    },
+    {
+      "id": 147,
+      "actualRating": 4.3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "A. P. Shah Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "90.67",
+      "twentyTWOPercent": "85.27",
+      "twentyONEPercent": "86.16",
+      "feeAmount": "1,18,406/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2014"
+    },
+    
+     {
+      "id": 148,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e91f8427cb55311_3-STAR.png",
+      "clgName": "M.G.M.'s College of Engineering and Technology",
+      "clgLocation": "Kamothe",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "83.22",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "79.72",
+      "feeAmount": "69,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://fastly.4sqi.net/img/general/600x600/16191769_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1862"
+    },
+    {
+      "id": 149,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Jawahar Education Society's College",
+      "clgLocation": "Kharghar",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "87.66",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "80.60",
+      "feeAmount": "1,08,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/1530187721AppNew.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1882"
+    },
+  {
+      "id": 150,
+      "actualRating": 3.2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e91f8427cb55311_3-STAR.png",
+      "clgName": " K.C. College of Engineering",
+      "clgLocation": "Thane",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "84.86",
+      "twentyTWOPercent": "76.22",
+      "twentyONEPercent": "82.25",
+      "feeAmount": "1,30,00/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://static.zollege.in/public/college_data/images/appImage/164845892020200924.jpg?tr=h-250,w-400,c-force",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+    {
+      "id": 151,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "New Horizon Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "85.63",
+      "twentyTWOPercent": "76.48",
+      "twentyONEPercent": "71.95",
+      "feeAmount": "72,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsrZi0dZRL5fzHaBKhz_TrTVlWz827dCKMiiHrkHAfGNMZcJeoedBEEYU_5qMQDOHh-U&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2014"
+    },
+    {
+      "id": 152,
+      "actualRating": 3.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Shivajirao S. Jondhale College of Engineering",
+      "clgLocation": "Dombivali",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "81.75",
+      "twentyTWOPercent": "70.89",
+      "twentyONEPercent": "71.80",
+      "feeAmount": "89,380/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://www.collegebatch.com/static/clg-gallery/shivajirao-s-jondhale-college-of-engineering-thane-255935.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1884"
+    },
+     {
+      "id": 153,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's Kalsekar Technical Campus,",
+      "clgLocation": "Panvel",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "81.62",
+      "twentyTWOPercent": "72.90",
+      "twentyONEPercent": "70.59",
+      "feeAmount": "87,520/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.shiksha.com/mediadata/images/1585027034phpd8dFX0.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2011"
+    },
+  {
+      "id": 154,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727900124f0d_3-HALF.png",
+      "clgName": "Konkan Gyanpeeth College of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "68.57",
+      "twentyTWOPercent": "56.80",
+      "twentyONEPercent": "55.51",
+      "feeAmount": "94,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/14027_slide-2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1884"
+    },
+    {
+      "id": 159,
+      "actualRating": 2 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685122b1f6a53600ba761_2-STAR.png",
+      "clgName": "Saraswati Education Society Institute of Engineering",
+      "clgLocation": "Karjat",
+      "Branch": "Civil Engineering",
+      "twentyThreePercent": "64.88",
+      "twentyTWOPercent": "58.60",
+      "twentyONEPercent": "23.50",
+      "feeAmount": "66,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://img.studyclap.com/img/institute/college/360x239/1202/ytcem-raigad-campus-57bbf2.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2005"
+      },
+     {
+     "id": 160,
+     "actualRating": 4.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685125a89954b966de20d_4-HALF.png",
+      "clgName": "Veermata Jijabai Technological Institute(VJTI)",
+      "clgLocation": "Matunga",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "96.76",
+      "twentyTWOPercent": "94.52",
+      "twentyONEPercent": "96.48",
+      "feeAmount": "85551/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vjti.ac.in/wp-content/uploads/2021/07/VJTI-LandingPageV3-768x393.jpg",
+  
+      "isGov": true,
+      "isAutonomous": true,
+      "isAided": true,
+      "isNonminority": true,
+      "est": "1967"
+    },
+  
+  
+  {
+      "id": 161,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College",
+      "clgLocation": "Vile Parle",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.24",
+      "twentyTWOPercent": "92.87",
+      "twentyONEPercent": "96.43",
+      "feeAmount": "88750/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1547448474phptA5OsA.png",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1964"
+    },
+  
+  {
+      "id":162,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thadomal Shahani Engineering College",
+      "clgLocation": "Bandra",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.04",
+      "twentyTWOPercent": "92.81",
+      "twentyONEPercent": "94.54",
+      "feeAmount": "132250/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1566293742phpRVy7Mk.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1943"
+    },
+  
+  {
+      "id": 163,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vivekanand Education Institute of Technology",
+      "clgLocation": "Chembur",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "92.44",
+      "twentyTWOPercent": "94.49",
+      "twentyONEPercent": "96.84",
+      "feeAmount": "135670/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2018/10/Vivekanand_Education_Society_s_Institute_of_Technology.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1944"
+    },
+  
+  {
+      "id": 164,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "K J Somaiya Institute of Engineering ",
+      "clgLocation": " Sion",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "92.62",
+      "twentyTWOPercent": "95.45",
+      "twentyONEPercent": "89.41",
+      "feeAmount": "138578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1556619256phpWx1A3f.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+  
+  {
+      "id": 165,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Fr. Conceicao Rodrigues College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.46",
+      "twentyTWOPercent": "89.40",
+      "twentyONEPercent": "92.35",
+      "feeAmount": "145452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fr._CRCE.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1944"
+    },
+  
+  {
+      "id": 166,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyalankar Institute of Technology",
+      "clgLocation": "Wadala",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "89.42",
+      "twentyTWOPercent": "95.32",
+      "twentyONEPercent": "94.84",
+      "feeAmount": "144582/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vit.edu.in/images/life1.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1967"
+    },
+  
+  {
+      "id": 167,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Agnel Charities' FR. C. Rodrigues Institute of Technology",
+      "clgLocation": "Vashi",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "89.85",
+      "twentyTWOPercent": "95.24",
+      "twentyONEPercent": "94.43",
+      "feeAmount": "136845/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/navi_mumbai/v3/022pxx22.xx22.000584015227.k5v3/catalogue/fr-agnel-technical-education-complex-vashi-navi-mumbai-colleges-830nki8ojg.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1961"
+    },
+  
+  {
+      "id": 168,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thakur College of Engineering and Technology",
+      "clgLocation": "Kandivali",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "89.10",
+      "twentyTWOPercent": "94.82",
+      "twentyONEPercent": "95.55",
+      "feeAmount": "145218/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.static-contents.youth4work.com/university/Documents/Colleges/newsEvent/4ed6b0c2-fe4e-4037-8a80-8d89d4f92d5d.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1969"
+    },
+  
+  {
+      "id": 169,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Don Bosco Institute of Technology",
+      "clgLocation": "Kurla",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "95.11",
+      "twentyTWOPercent": "94.61",
+      "twentyONEPercent": "93.34",
+      "feeAmount": "134594/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.theassociates.co.in/wp-content/uploads/2021/07/m14.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1962"
+    },
+  
+  {
+      "id": 170,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Manjara Trust's Rajiv Gandhi Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "93.12",
+      "twentyTWOPercent": "93.08",
+      "twentyONEPercent": "93.73",
+      "feeAmount": "138759/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/14734_RGIT_New.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1966"
+    },
+  
+  {
+      "id": 171,
+      "actualRating": 3.8,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Xavier Institute Of Engineering ",
+      "clgLocation": "Mahim",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "92.84",
+      "twentyONEPercent": "93.52",
+      "feeAmount": "1379548/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2019/05/Xavier-Institute-of-Engineering.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2003"
+    },
+  
+  {
+      "id": 172,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": " St. Francis Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.43",
+      "twentyTWOPercent": "93.17",
+      "twentyONEPercent": "94.61",
+      "feeAmount": "132678/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/mumbai/d6/022pxx22.xx22.170887141300.l7d6/catalogue/st-francis-institute-of-technology-engineering-college-borivali-west-mumbai-colleges-pldcw0ujuc.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1963"
+    },
+  
+  {
+      "id": 173,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "S.I.E.S. Graduate School of Technology",
+      "clgLocation": "Nerul",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "95.45",
+      "twentyTWOPercent": "93.48",
+      "twentyONEPercent": "93.48",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1555324229phpPLACuW.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2002"
+    },
+  
+  {
+      "id": 174,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyavardhini's College of Engineering",
+      "clgLocation": "Vasai",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "87.48",
+      "twentyTWOPercent": "93.94",
+      "twentyONEPercent": "92.68",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1560142232phpXE4NVo.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1961"
+    },
+  
+  {
+      "id": 175,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Bharati Vidyapeeth College of Engineering",
+      "clgLocation": "Borivali",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.54",
+      "twentyTWOPercent": "89.62",
+      "twentyONEPercent": "87.66",
+      "feeAmount": "135468/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1480663009phpF68yaT.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1949"
+    },
+  
+  {
+      "id": 176,
+      "actualRating": 3.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Rizvi College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "87.87",
+      "twentyTWOPercent": "92.85",
+      "twentyONEPercent": "89.41",
+      "feeAmount": "130000",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1500017268cvr.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1963"
+    },
+  
+  {
+      "id": 177,
+      "actualRating": 3.7,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "N.Y.S.S.'s Datta Meghe College of Engineering",
+      "clgLocation": "Airoli",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.56",
+      "twentyTWOPercent": "92.81",
+      "twentyONEPercent": "89.03",
+      "feeAmount": "142050",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1495445847phpN0ARqD.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1963"
+    },
+  
+  {
+      "id": 178,
+      "actualRating": 4,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Atharva College of Engineering",
+      "clgLocation": "Malad",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "92.05",
+      "twentyTWOPercent": "92.38",
+      "twentyONEPercent": "92.63",
+      "feeAmount": "96,926/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/atharva-college-of-engineering-mumbai-231554.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1969"
+    },
+    {
+      "id": 179,
+      "actualRating": 4.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Mahatma Education Society's Pillai College",
+      "clgLocation": "New Panvel",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "89.62",
+      "twentyONEPercent": "87.06",
+      "feeAmount": "1,38,354/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1969"
+    },
+    {
+      "id": 180,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Mahavir Education Trust's Shah & Anchor College",
+      "clgLocation": "Chembur",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "87.25",
+      "twentyTWOPercent": "92.61",
+      "twentyONEPercent": "92.54",
+      "feeAmount": "1,45,263/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1487196575php92HxOT_g.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1854"
+    },
+    {
+      "id": 181,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Terna Engineering College",
+      "clgLocation": "Nerul",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "87.92",
+      "twentyTWOPercent": "92.16",
+      "twentyONEPercent": "92.28",
+      "feeAmount": "1,30,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1664354553TernaBuildingmin3.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1961"
+    },
+    {
+      "id": 182,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Shree L.R. Tiwari College of Engineering",
+      "clgLocation": "Mira Road",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "92.13",
+      "twentyTWOPercent": "87.51",
+      "twentyONEPercent": "96.36",
+      "feeAmount": "89,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2010"
+    },
+    {
+      "id": 183,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's M.H. Saboo Siddik College",
+      "clgLocation": "Byculla",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "92.54",
+      "twentyTWOPercent": "87.30",
+      "twentyONEPercent": "87.72",
+      "feeAmount": "1,40,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1548231310phplmaY9N.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1936"
+    },
+      {
+      "id": 184,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e87f8427cb55311_3-STAR.png",
+      "clgName": "Lokmanya Tilak College of Engineering",
+      "clgLocation": "Kopar Khairane",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "96.24",
+      "twentyTWOPercent": "83.07",
+      "twentyONEPercent": "84.63",
+      "feeAmount": "1,25,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1964"
+    },
+     {
+      "id": 185,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Vasantdada Patil Pratishthan's College Of Engineering",
+      "clgLocation": "Sion",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "92.05",
+      "twentyTWOPercent": "85.83",
+      "twentyONEPercent": "94.29",
+      "feeAmount": "1,46,205/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://pvppcoe.ac.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-11.11.20-PM.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1940"
+    },
+     {
+      "id": 186,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Smt. Indira Gandhi College of Engineering",
+      "clgLocation": "Ghansoli",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "87.12",
+      "twentyTWOPercent": "83.34",
+      "twentyONEPercent": "82.09",
+      "feeAmount": "85,660/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1596984968phpFLlyPi.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1963"
+    },
+      {
+      "id": 187,
+      "actualRating": 4.0 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Saraswati Education Society's Saraswati College",
+      "clgLocation": "Kharghar",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "94.87",
+      "twentyTWOPercent": "82.52",
+      "twentyONEPercent": "84.55",
+      "feeAmount": "1,00,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.collegebatch.com/static/clg-gallery/saraswati-college-of-engineering-navi-mumbai-255695.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2004"
+    },
+    {
+      "id": 188,
+      "actualRating": 4.3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "A. P. Shah Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "89.67",
+      "twentyTWOPercent": "85.27",
+      "twentyONEPercent": "94.16",
+      "feeAmount": "1,18,406/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2014"
+    },
+    
+     {
+      "id": 189,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e87f8427cb55311_3-STAR.png",
+      "clgName": "M.G.M.'s College of Engineering and Technology",
+      "clgLocation": "Kamothe",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "83.22",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "79.72",
+      "feeAmount": "69,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://fastly.4sqi.net/img/general/600x600/16187769_Kx2uKHV71NDppsZ8hj4gl1s8F4f22KO3s_Tj63FBtqw.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1942"
+    },
+    {
+      "id": 190,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/543685128e87f8427cb55311_3-STAR.png",
+      "clgName": "Jawahar Education Society's College",
+      "clgLocation": "Kharghar",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "87.66",
+      "twentyTWOPercent": "79.30",
+      "twentyONEPercent": "80.60",
+      "feeAmount": "1,08,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.collegedunia.com/public/college_data/images/appImage/1530187721AppNew.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1962"
+    },
+   
+ 
+     {
+      "id": 191,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/54368512ef3d727890124f0d_3-HALF.png",
+      "clgName": "Anjuman-I-Islam's Kalsekar Technical Campus,",
+      "clgLocation": "Panvel",
+      "Branch": "ECS Engineering",
+      "twentyThreePercent": "81.62",
+      "twentyTWOPercent": "72.89",
+      "twentyONEPercent": "70.59",
+      "feeAmount": "87,520/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://images.shiksha.com/mediadata/images/1585027034phpd8dFX0.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2011"
+    },
+    {
+      "id": 192,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685125a96965b996de20d_4-HALF.png",
+      "clgName": "Bhartiya VidyaBhavan Sardar Patel Institute of Technology",
+      "clgLocation": "Andheri",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "99.42",
+      "twentyTWOPercent": "98.54",
+      "twentyONEPercent": "99.62",
+      "feeAmount": "95567/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://i.ytimg.com/vi/BEjLcQGDvps/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARsbc64_0XkrOma5CP-hiiVXETWg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1962"
+    },
+  
+  {
+      "id":193,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College",
+      "clgLocation": "Vile Parle",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "98.24",
+      "twentyTWOPercent": "97.87",
+      "twentyONEPercent": "99.43",
+      "feeAmount": "90150/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1547448474phptA5OsA.png",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1994"
+    },
+  
+  {
+      "id":194,
+      "actualRating": 4.2,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thadomal Shahani Engineering College",
+      "clgLocation": "Bandra",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "98.04",
+      "twentyTWOPercent": "97.81",
+      "twentyONEPercent": "98.54",
+      "feeAmount": "132250/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1566293742phpRVy7Mk.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1983"
+    },
+  
+  {
+      "id":195,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vivekanand Education Institute of Technology",
+      "clgLocation": "Chembur",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "97.44",
+      "twentyTWOPercent": "98.49",
+      "twentyONEPercent": "99.84",
+      "feeAmount": "135670/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2018/10/Vivekanand_Education_Society_s_Institute_of_Technology.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1984"
+    },
+  
+  {
+      "id":196,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "K J Somaiya Institute of Engineering ",
+      "clgLocation": " Sion",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "97.62",
+      "twentyTWOPercent": "95.33",
+      "twentyONEPercent": "96.41",
+      "feeAmount": "138578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1556619756phpWx1A3f.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2001"
+    },
+  
+  {
+      "id":197,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Fr. Conceicao Rodrigues College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "94.46",
+      "twentyTWOPercent": "90.40",
+      "twentyONEPercent": "89.35",
+      "feeAmount": "133452/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fr._CRCE.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1984"
+    },
+  
+  {
+      "id":198,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyalankar Institute of Technology",
+      "clgLocation": "Wadala",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "96.42",
+      "twentyTWOPercent": "95.32",
+      "twentyONEPercent": "94.84",
+      "feeAmount": "144582/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://vit.edu.in/images/life1.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1997"
+    },
+  
+  {
+      "id":199,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Agnel Charities' FR. C. Rodrigues Institute of Technology",
+      "clgLocation": "Vashi",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "96.85",
+      "twentyTWOPercent": "95.24",
+      "twentyONEPercent": "94.43",
+      "feeAmount": "136845/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://content.jdmagicbox.com/comp/navi_mumbai/v3/022pxx22.xx22.000584015227.k5v3/catalogue/fr-agnel-technical-education-complex-vashi-navi-mumbai-colleges-830nki8ojg.jpg?clr=",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+  
+  {
+      "id":200,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Thakur College of Engineering and Technology",
+      "clgLocation": "Kandivali",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "96.10",
+      "twentyTWOPercent": "94.82",
+      "twentyONEPercent": "95.55",
+      "feeAmount": "145218/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.static-contents.youth4work.com/university/Documents/Colleges/newsEvent/4ed6b0c2-fe4e-4037-8a80-8d90d4f89d5d.jpg",
+  
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1999"
+    },
+  
+  {
+      "id": 201,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Don Bosco Institute of Technology",
+      "clgLocation": "Kurla",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "95.11",
+      "twentyTWOPercent": "94.61",
+      "twentyONEPercent": "93.34",
+      "feeAmount": "134586/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://www.theassociates.co.in/wp-content/uploads/2021/07/m14.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1992"
+    },
+  
+  {
+      "id": 202,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Manjara Trust's Rajiv Gandhi Institute of Technology",
+      "clgLocation": "Borivali",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "93.12",
+      "twentyTWOPercent": "93.08",
+      "twentyONEPercent": "93.73",
+      "feeAmount": "138759/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/14734_RGIT_New.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1996"
+    },
+  
+  {
+      "id":203,
+      "actualRating": 3.8,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Xavier Institute Of Engineering ",
+      "clgLocation": "Mahim",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "92.84",
+      "twentyONEPercent": "93.52",
+      "feeAmount": "1379548/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://theknowledgereview.com/wp-content/uploads/2019/05/Xavier-Institute-of-Engineering.jpg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2003"
+    },
+  {
+      "id": 204,
+      "actualRating": 4.0,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "S.I.E.S. Graduate School of Technology",
+      "clgLocation": "Nerul",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "95.33",
+      "twentyTWOPercent": "93.48",
+      "twentyONEPercent": "93.48",
+      "feeAmount": "135478/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1555324229phpPLACuW.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2002"
+    },
+  
+  {
+      "id": 205,
+      "actualRating": 3.9,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Vidyavardhini's College of Engineering",
+      "clgLocation": "Vasai",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "91.48",
+      "twentyTWOPercent": "93.86",
+      "twentyONEPercent": "92.68",
+      "feeAmount": "136578/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1560142232phpXE4NVo.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+  
+  {
+      "id": 206,
+      "actualRating": 4.1,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Bharati Vidyapeeth College of Engineering",
+      "clgLocation": "Borivali",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "94.65",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "87.66",
+      "feeAmount": "135468/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1480663009phpF68yaT.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1989"
+    },
+  
+  {
+      "id": 207,
+      "actualRating": 3.5,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Rizvi College of Engineering",
+      "clgLocation": "Bandra",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "91.91",
+      "twentyTWOPercent": "89.85",
+      "twentyONEPercent": "90.41",
+      "feeAmount": "130000",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1500017268cvr.png",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+  
+  {
+      "id": 208,
+      "actualRating": 3.7,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "N.Y.S.S.'s Datta Meghe College of Engineering",
+      "clgLocation": "Airoli",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "94.56",
+      "twentyTWOPercent": "89.81",
+      "twentyONEPercent": "90.03",
+      "feeAmount": "142050",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1495433847phpN0ARqD.jpeg",
+  
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1993"
+    },
+    {
+      "id": 209,
+      "actualRating": 4.1 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "Mahatma Education Society's Pillai College",
+      "clgLocation": "New Panvel",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "93.08",
+      "twentyTWOPercent": "90.62",
+      "twentyONEPercent": "91.06",
+      "feeAmount": "1,38,354/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://lh3.googleusercontent.com/p/AF1QipP5-6vUzM39RnfEU15OeiiiddRvm0QZXHQRwYRm=s1360-w1360-h1020",
+      "isGov": false,
+      "isAutonomous": true,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1999"
+    },
+    {
+      "id": 210,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Mahavir Education Trust's Shah & Anchor College",
+      "clgLocation": "Chembur",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "91.25",
+      "twentyTWOPercent": "89.61",
+      "twentyONEPercent": "89.65",
+      "feeAmount": "1,33,263/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1491199575php89HxOT_g.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1985"
+    },
+    {
+      "id": 211,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Terna Engineering College",
+      "clgLocation": "Nerul",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "91.97",
+      "twentyTWOPercent": "89.16",
+      "twentyONEPercent": "89.28",
+      "feeAmount": "1,30,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1664365553TernaBuildingmin3.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1991"
+    },
+    {
+      "id": 212,
+      "actualRating": 3.6 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Shree L.R. Tiwari College of Engineering",
+      "clgLocation": "Mira Road",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "89.13",
+      "twentyTWOPercent": "87.51",
+      "twentyONEPercent": "88.36",
+      "feeAmount": "96,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.collegedunia.com/public/college_data/images/appImage/1612257100Screenshot20210202143426.png",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2010"
+     },
+      {
+      "id": 213,
+      "actualRating": 3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/653685128e91f8427cb55311_3-STAR.png",
+      "clgName": "Lokmanya Tilak College of Engineering",
+      "clgLocation": "Kopar Khairane",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "88.24",
+      "twentyTWOPercent": "83.07",
+      "twentyONEPercent": "84.63",
+      "feeAmount": "1,25,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://media.getmyuni.com/azure/college-image/big/lokmanya-tilak-college-of-engineering-ltce-mumbai.jpg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "1994"
+    },
+     {
+      "id": 214,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "Smt. Indira Gandhi College of Engineering",
+      "clgLocation": "Ghansoli",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "87.12",
+      "twentyTWOPercent": "83.34",
+      "twentyONEPercent": "82.09",
+      "feeAmount": "85,660/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://images.shiksha.com/mediadata/images/1589784998phpFLlyPi.jpeg",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "1993"
+    },
+    {
+      "id": 215,
+      "actualRating": 4.3 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/64c4d9e4a124713eeaa01f27_4-STAR.png",
+      "clgName": "A. P. Shah Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "90.67",
+      "twentyTWOPercent": "85.27",
+      "twentyONEPercent": "86.16",
+      "feeAmount": "1,18,406/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx8Swni92jar_vBrkvyLm7Ozf3dYrEWYmFZNdlUOsGFy4aP77fdZeDPY24hDT0PIbfPg&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": false,
+      "est": "2014"
+    },
+    {
+      "id": 216,
+      "actualRating": 3.5 ,
+      "ratingStar":
+        "https://assets-global.website-files.com/64c4b66a44c38c5fa4309e5a/65368512ef3d727960124f0d_3-HALF.png",
+      "clgName": "New Horizon Institute of Technology",
+      "clgLocation": "Thane",
+      "Branch": "Artificial intelligence and Data Science",
+      "twentyThreePercent": "85.63",
+      "twentyTWOPercent": "76.48",
+      "twentyONEPercent": "71.95",
+      "feeAmount": "72,000/-",
+      "jeeMains": "Jee Mains",
+      "clgImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsrZi0dZRL5fzHaBKhz_TrTVlWz827dCKMiiHrkHAfGNMZcJeoedBEEYU_5qMQDOHh-U&usqp=CAU",
+      "isGov": false,
+      "isAutonomous": false,
+      "isAided": false,
+      "isNonminority": true,
+      "est": "2014"
+    }
+
+    ]
 }
-  ]
-}
+
+    
+  
+
